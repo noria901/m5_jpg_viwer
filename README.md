@@ -3,8 +3,9 @@
 twitterアイコンしか知らない人でもこれで把握できる。
 
 ## できること
-* M5stackのSDカードのJPGを表示する
-* M5stackのボタンで表示切り替え  
+* M5stackのSDカードのJPGを表示する  
+** サブディレクトリに配置してもOK
+* M5stackのボタンで表示切り替え  
 ** A button : Show prev jpg  
 ** B button : Show first jpg  
 ** C button : Show next jpg  
