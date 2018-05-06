@@ -18,4 +18,7 @@ twitterアイコンしか知らない人でもこれで把握できる。
 # make & flush
 * M5stack arduino環境用意する  
 <http://www.m5stack.com/assets/docs/>
-* m5_jpg_viwer.inoを焼く
+* m5_jpg_viwer.inoを焼く  
+* SDカードに320×240のjpgを置く。  
+サブディレクトリにおいても表示できますよ。  
+* 起動する
