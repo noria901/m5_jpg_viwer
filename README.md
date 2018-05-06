@@ -16,6 +16,6 @@ twitterアイコンしか知らない人でもこれで把握できる。
 * そのたもろもろ
 
 # make & flush
-* M5stack arduino環境用意する  
-** <http://www.m5stack.com/assets/docs/>
+* M5stack arduino環境用意する  
+<http://www.m5stack.com/assets/docs/>
 * m5_jpg_viwer.inoを焼く
