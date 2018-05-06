@@ -4,11 +4,11 @@ twitterアイコンしか知らない人でもこれで把握できる。
 
 ## できること
 * M5stackのSDカードのJPGを表示する  
-** サブディレクトリに配置してもOK
-* M5stackのボタンで表示切り替え  
-** A button : Show prev jpg  
-** B button : Show first jpg  
-** C button : Show next jpg  
+サブディレクトリに配置してもOK  
+* M5stackのボタンで表示切り替え  
+A button : Show prev jpg  
+B button : Show first jpg   
+C button : Show next jpg  
 ## できないこと(もしくはTODOリスト)
 * センタリング
 * リサイズ
